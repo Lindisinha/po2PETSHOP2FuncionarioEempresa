@@ -1,0 +1,185 @@
+C:\Users\2022102020082\source\repos\po2PetShop\po2PetShop\bin\Debug\po2PetShop.exe.config
+C:\Users\2022102020082\source\repos\po2PetShop\po2PetShop\bin\Debug\po2PetShop.exe
+C:\Users\2022102020082\source\repos\po2PetShop\po2PetShop\bin\Debug\po2PetShop.pdb
+C:\Users\2022102020082\source\repos\po2PetShop\po2PetShop\obj\Debug\po2PetShop.csproj.AssemblyReference.cache
+C:\Users\2022102020082\source\repos\po2PetShop\po2PetShop\obj\Debug\po2PetShop.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022102020082\source\repos\po2PetShop\po2PetShop\obj\Debug\po2PetShop.Properties.Resources.resources
+C:\Users\2022102020082\source\repos\po2PetShop\po2PetShop\obj\Debug\po2PetShop.csproj.GenerateResource.cache
+C:\Users\2022102020082\source\repos\po2PetShop\po2PetShop\obj\Debug\po2PetShop.csproj.CoreCompileInputs.cache
+C:\Users\2022102020082\source\repos\po2PetShop\po2PetShop\obj\Debug\po2PetShop.exe
+C:\Users\2022102020082\source\repos\po2PetShop\po2PetShop\obj\Debug\po2PetShop.pdb
+C:\Users\2022102020082\source\repos\po2PetShop\po2PetShop\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\2022102020082\source\repos\po2PetShop\po2PetShop\bin\Debug\Google.Protobuf.dll
+C:\Users\2022102020082\source\repos\po2PetShop\po2PetShop\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\2022102020082\source\repos\po2PetShop\po2PetShop\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\2022102020082\source\repos\po2PetShop\po2PetShop\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\2022102020082\source\repos\po2PetShop\po2PetShop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\2022102020082\source\repos\po2PetShop\po2PetShop\bin\Debug\MySql.Data.dll
+C:\Users\2022102020082\source\repos\po2PetShop\po2PetShop\bin\Debug\System.Buffers.dll
+C:\Users\2022102020082\source\repos\po2PetShop\po2PetShop\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\2022102020082\source\repos\po2PetShop\po2PetShop\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\2022102020082\source\repos\po2PetShop\po2PetShop\bin\Debug\System.IO.Pipelines.dll
+C:\Users\2022102020082\source\repos\po2PetShop\po2PetShop\bin\Debug\System.Memory.dll
+C:\Users\2022102020082\source\repos\po2PetShop\po2PetShop\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\2022102020082\source\repos\po2PetShop\po2PetShop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\2022102020082\source\repos\po2PetShop\po2PetShop\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\2022102020082\source\repos\po2PetShop\po2PetShop\bin\Debug\ZstdSharp.dll
+C:\Users\2022102020082\source\repos\po2PetShop\po2PetShop\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\2022102020082\source\repos\po2PetShop\po2PetShop\bin\Debug\Google.Protobuf.pdb
+C:\Users\2022102020082\source\repos\po2PetShop\po2PetShop\bin\Debug\Google.Protobuf.xml
+C:\Users\2022102020082\source\repos\po2PetShop\po2PetShop\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\2022102020082\source\repos\po2PetShop\po2PetShop\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\2022102020082\source\repos\po2PetShop\po2PetShop\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\2022102020082\source\repos\po2PetShop\po2PetShop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\2022102020082\source\repos\po2PetShop\po2PetShop\bin\Debug\MySql.Data.xml
+C:\Users\2022102020082\source\repos\po2PetShop\po2PetShop\bin\Debug\System.Buffers.xml
+C:\Users\2022102020082\source\repos\po2PetShop\po2PetShop\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\2022102020082\source\repos\po2PetShop\po2PetShop\bin\Debug\System.IO.Pipelines.xml
+C:\Users\2022102020082\source\repos\po2PetShop\po2PetShop\bin\Debug\System.Memory.xml
+C:\Users\2022102020082\source\repos\po2PetShop\po2PetShop\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\2022102020082\source\repos\po2PetShop\po2PetShop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\2022102020082\source\repos\po2PetShop\po2PetShop\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\2022102020082\source\repos\po2PetShop\po2PetShop\obj\Debug\po2PetShop.csproj.CopyComplete
+C:\Users\2022102020082\source\repos\po2PetShop\po2PetShop\obj\Debug\po2PetShop.Cdfuncionario.resources
+C:\Users\2022102020082\source\repos\po2PetShop\po2PetShop\obj\Debug\po2PetShop.Cdempresa.resources
+C:\Users\2022102020082\source\repos\po2PetShop\po2PetShop\obj\Debug\po2PetShop.Inspfuncionario.resources
+C:\Users\2022102020082\source\repos\po2PetShop\po2PetShop\obj\Debug\po2PetShop.InspEmpresa.resources
+C:\Users\2022102020082\source\repos\po2PetShop\po2PetShop\obj\Debug\po2PetShop.TelaInicial.resources
+C:\Users\teixe\Downloads\po2PetShop\po2PetShop\bin\Debug\po2PetShop.exe.config
+C:\Users\teixe\Downloads\po2PetShop\po2PetShop\bin\Debug\po2PetShop.exe
+C:\Users\teixe\Downloads\po2PetShop\po2PetShop\bin\Debug\po2PetShop.pdb
+C:\Users\teixe\Downloads\po2PetShop\po2PetShop\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\teixe\Downloads\po2PetShop\po2PetShop\bin\Debug\Google.Protobuf.dll
+C:\Users\teixe\Downloads\po2PetShop\po2PetShop\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\teixe\Downloads\po2PetShop\po2PetShop\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\teixe\Downloads\po2PetShop\po2PetShop\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\teixe\Downloads\po2PetShop\po2PetShop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\teixe\Downloads\po2PetShop\po2PetShop\bin\Debug\MySql.Data.dll
+C:\Users\teixe\Downloads\po2PetShop\po2PetShop\bin\Debug\System.Buffers.dll
+C:\Users\teixe\Downloads\po2PetShop\po2PetShop\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\teixe\Downloads\po2PetShop\po2PetShop\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\teixe\Downloads\po2PetShop\po2PetShop\bin\Debug\System.IO.Pipelines.dll
+C:\Users\teixe\Downloads\po2PetShop\po2PetShop\bin\Debug\System.Memory.dll
+C:\Users\teixe\Downloads\po2PetShop\po2PetShop\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\teixe\Downloads\po2PetShop\po2PetShop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\teixe\Downloads\po2PetShop\po2PetShop\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\teixe\Downloads\po2PetShop\po2PetShop\bin\Debug\ZstdSharp.dll
+C:\Users\teixe\Downloads\po2PetShop\po2PetShop\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\teixe\Downloads\po2PetShop\po2PetShop\bin\Debug\Google.Protobuf.pdb
+C:\Users\teixe\Downloads\po2PetShop\po2PetShop\bin\Debug\Google.Protobuf.xml
+C:\Users\teixe\Downloads\po2PetShop\po2PetShop\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\teixe\Downloads\po2PetShop\po2PetShop\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\teixe\Downloads\po2PetShop\po2PetShop\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\teixe\Downloads\po2PetShop\po2PetShop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\teixe\Downloads\po2PetShop\po2PetShop\bin\Debug\MySql.Data.xml
+C:\Users\teixe\Downloads\po2PetShop\po2PetShop\bin\Debug\System.Buffers.xml
+C:\Users\teixe\Downloads\po2PetShop\po2PetShop\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\teixe\Downloads\po2PetShop\po2PetShop\bin\Debug\System.IO.Pipelines.xml
+C:\Users\teixe\Downloads\po2PetShop\po2PetShop\bin\Debug\System.Memory.xml
+C:\Users\teixe\Downloads\po2PetShop\po2PetShop\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\teixe\Downloads\po2PetShop\po2PetShop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\teixe\Downloads\po2PetShop\po2PetShop\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\teixe\Downloads\po2PetShop\po2PetShop\obj\Debug\po2PetShop.csproj.AssemblyReference.cache
+C:\Users\teixe\Downloads\po2PetShop\po2PetShop\obj\Debug\po2PetShop.Cdfuncionario.resources
+C:\Users\teixe\Downloads\po2PetShop\po2PetShop\obj\Debug\po2PetShop.Cdempresa.resources
+C:\Users\teixe\Downloads\po2PetShop\po2PetShop\obj\Debug\po2PetShop.Inspfuncionario.resources
+C:\Users\teixe\Downloads\po2PetShop\po2PetShop\obj\Debug\po2PetShop.InspEmpresa.resources
+C:\Users\teixe\Downloads\po2PetShop\po2PetShop\obj\Debug\po2PetShop.TelaInicial.resources
+C:\Users\teixe\Downloads\po2PetShop\po2PetShop\obj\Debug\po2PetShop.Properties.Resources.resources
+C:\Users\teixe\Downloads\po2PetShop\po2PetShop\obj\Debug\po2PetShop.csproj.GenerateResource.cache
+C:\Users\teixe\Downloads\po2PetShop\po2PetShop\obj\Debug\po2PetShop.csproj.CoreCompileInputs.cache
+C:\Users\teixe\Downloads\po2PetShop\po2PetShop\obj\Debug\po2PetShop.csproj.CopyComplete
+C:\Users\teixe\Downloads\po2PetShop\po2PetShop\obj\Debug\po2PetShop.exe
+C:\Users\teixe\Downloads\po2PetShop\po2PetShop\obj\Debug\po2PetShop.pdb
+C:\Users\rafag\Downloads\PO2PETSHOP\po2PetShop\bin\Debug\po2PetShop.exe.config
+C:\Users\rafag\Downloads\PO2PETSHOP\po2PetShop\bin\Debug\po2PetShop.exe
+C:\Users\rafag\Downloads\PO2PETSHOP\po2PetShop\bin\Debug\po2PetShop.pdb
+C:\Users\rafag\Downloads\PO2PETSHOP\po2PetShop\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\rafag\Downloads\PO2PETSHOP\po2PetShop\bin\Debug\Google.Protobuf.dll
+C:\Users\rafag\Downloads\PO2PETSHOP\po2PetShop\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\rafag\Downloads\PO2PETSHOP\po2PetShop\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\rafag\Downloads\PO2PETSHOP\po2PetShop\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\rafag\Downloads\PO2PETSHOP\po2PetShop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rafag\Downloads\PO2PETSHOP\po2PetShop\bin\Debug\MySql.Data.dll
+C:\Users\rafag\Downloads\PO2PETSHOP\po2PetShop\bin\Debug\System.Buffers.dll
+C:\Users\rafag\Downloads\PO2PETSHOP\po2PetShop\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\rafag\Downloads\PO2PETSHOP\po2PetShop\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rafag\Downloads\PO2PETSHOP\po2PetShop\bin\Debug\System.IO.Pipelines.dll
+C:\Users\rafag\Downloads\PO2PETSHOP\po2PetShop\bin\Debug\System.Memory.dll
+C:\Users\rafag\Downloads\PO2PETSHOP\po2PetShop\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\rafag\Downloads\PO2PETSHOP\po2PetShop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rafag\Downloads\PO2PETSHOP\po2PetShop\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\rafag\Downloads\PO2PETSHOP\po2PetShop\bin\Debug\ZstdSharp.dll
+C:\Users\rafag\Downloads\PO2PETSHOP\po2PetShop\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\rafag\Downloads\PO2PETSHOP\po2PetShop\bin\Debug\Google.Protobuf.pdb
+C:\Users\rafag\Downloads\PO2PETSHOP\po2PetShop\bin\Debug\Google.Protobuf.xml
+C:\Users\rafag\Downloads\PO2PETSHOP\po2PetShop\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\rafag\Downloads\PO2PETSHOP\po2PetShop\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\rafag\Downloads\PO2PETSHOP\po2PetShop\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\rafag\Downloads\PO2PETSHOP\po2PetShop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\rafag\Downloads\PO2PETSHOP\po2PetShop\bin\Debug\MySql.Data.xml
+C:\Users\rafag\Downloads\PO2PETSHOP\po2PetShop\bin\Debug\System.Buffers.xml
+C:\Users\rafag\Downloads\PO2PETSHOP\po2PetShop\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\rafag\Downloads\PO2PETSHOP\po2PetShop\bin\Debug\System.IO.Pipelines.xml
+C:\Users\rafag\Downloads\PO2PETSHOP\po2PetShop\bin\Debug\System.Memory.xml
+C:\Users\rafag\Downloads\PO2PETSHOP\po2PetShop\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\rafag\Downloads\PO2PETSHOP\po2PetShop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\rafag\Downloads\PO2PETSHOP\po2PetShop\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\rafag\Downloads\PO2PETSHOP\po2PetShop\obj\Debug\po2PetShop.csproj.AssemblyReference.cache
+C:\Users\rafag\Downloads\PO2PETSHOP\po2PetShop\obj\Debug\po2PetShop.Cdfuncionario.resources
+C:\Users\rafag\Downloads\PO2PETSHOP\po2PetShop\obj\Debug\po2PetShop.Cdempresa.resources
+C:\Users\rafag\Downloads\PO2PETSHOP\po2PetShop\obj\Debug\po2PetShop.Inspfuncionario.resources
+C:\Users\rafag\Downloads\PO2PETSHOP\po2PetShop\obj\Debug\po2PetShop.InspEmpresa.resources
+C:\Users\rafag\Downloads\PO2PETSHOP\po2PetShop\obj\Debug\po2PetShop.TelaInicial.resources
+C:\Users\rafag\Downloads\PO2PETSHOP\po2PetShop\obj\Debug\po2PetShop.Properties.Resources.resources
+C:\Users\rafag\Downloads\PO2PETSHOP\po2PetShop\obj\Debug\po2PetShop.csproj.GenerateResource.cache
+C:\Users\rafag\Downloads\PO2PETSHOP\po2PetShop\obj\Debug\po2PetShop.csproj.CoreCompileInputs.cache
+C:\Users\rafag\Downloads\PO2PETSHOP\po2PetShop\obj\Debug\po2PetShop.csproj.CopyComplete
+C:\Users\rafag\Downloads\PO2PETSHOP\po2PetShop\obj\Debug\po2PetShop.exe
+C:\Users\rafag\Downloads\PO2PETSHOP\po2PetShop\obj\Debug\po2PetShop.pdb
+C:\Users\teixe\Downloads\PO2PETSHOP (2)\PO2PETSHOP\po2PetShop\bin\Debug\po2PetShop.exe.config
+C:\Users\teixe\Downloads\PO2PETSHOP (2)\PO2PETSHOP\po2PetShop\bin\Debug\po2PetShop.exe
+C:\Users\teixe\Downloads\PO2PETSHOP (2)\PO2PETSHOP\po2PetShop\bin\Debug\po2PetShop.pdb
+C:\Users\teixe\Downloads\PO2PETSHOP (2)\PO2PETSHOP\po2PetShop\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\teixe\Downloads\PO2PETSHOP (2)\PO2PETSHOP\po2PetShop\bin\Debug\Google.Protobuf.dll
+C:\Users\teixe\Downloads\PO2PETSHOP (2)\PO2PETSHOP\po2PetShop\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\teixe\Downloads\PO2PETSHOP (2)\PO2PETSHOP\po2PetShop\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\teixe\Downloads\PO2PETSHOP (2)\PO2PETSHOP\po2PetShop\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\teixe\Downloads\PO2PETSHOP (2)\PO2PETSHOP\po2PetShop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\teixe\Downloads\PO2PETSHOP (2)\PO2PETSHOP\po2PetShop\bin\Debug\MySql.Data.dll
+C:\Users\teixe\Downloads\PO2PETSHOP (2)\PO2PETSHOP\po2PetShop\bin\Debug\System.Buffers.dll
+C:\Users\teixe\Downloads\PO2PETSHOP (2)\PO2PETSHOP\po2PetShop\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\teixe\Downloads\PO2PETSHOP (2)\PO2PETSHOP\po2PetShop\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\teixe\Downloads\PO2PETSHOP (2)\PO2PETSHOP\po2PetShop\bin\Debug\System.IO.Pipelines.dll
+C:\Users\teixe\Downloads\PO2PETSHOP (2)\PO2PETSHOP\po2PetShop\bin\Debug\System.Memory.dll
+C:\Users\teixe\Downloads\PO2PETSHOP (2)\PO2PETSHOP\po2PetShop\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\teixe\Downloads\PO2PETSHOP (2)\PO2PETSHOP\po2PetShop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\teixe\Downloads\PO2PETSHOP (2)\PO2PETSHOP\po2PetShop\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\teixe\Downloads\PO2PETSHOP (2)\PO2PETSHOP\po2PetShop\bin\Debug\ZstdSharp.dll
+C:\Users\teixe\Downloads\PO2PETSHOP (2)\PO2PETSHOP\po2PetShop\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\teixe\Downloads\PO2PETSHOP (2)\PO2PETSHOP\po2PetShop\bin\Debug\Google.Protobuf.pdb
+C:\Users\teixe\Downloads\PO2PETSHOP (2)\PO2PETSHOP\po2PetShop\bin\Debug\Google.Protobuf.xml
+C:\Users\teixe\Downloads\PO2PETSHOP (2)\PO2PETSHOP\po2PetShop\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\teixe\Downloads\PO2PETSHOP (2)\PO2PETSHOP\po2PetShop\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\teixe\Downloads\PO2PETSHOP (2)\PO2PETSHOP\po2PetShop\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\teixe\Downloads\PO2PETSHOP (2)\PO2PETSHOP\po2PetShop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\teixe\Downloads\PO2PETSHOP (2)\PO2PETSHOP\po2PetShop\bin\Debug\MySql.Data.xml
+C:\Users\teixe\Downloads\PO2PETSHOP (2)\PO2PETSHOP\po2PetShop\bin\Debug\System.Buffers.xml
+C:\Users\teixe\Downloads\PO2PETSHOP (2)\PO2PETSHOP\po2PetShop\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\teixe\Downloads\PO2PETSHOP (2)\PO2PETSHOP\po2PetShop\bin\Debug\System.IO.Pipelines.xml
+C:\Users\teixe\Downloads\PO2PETSHOP (2)\PO2PETSHOP\po2PetShop\bin\Debug\System.Memory.xml
+C:\Users\teixe\Downloads\PO2PETSHOP (2)\PO2PETSHOP\po2PetShop\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\teixe\Downloads\PO2PETSHOP (2)\PO2PETSHOP\po2PetShop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\teixe\Downloads\PO2PETSHOP (2)\PO2PETSHOP\po2PetShop\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\teixe\Downloads\PO2PETSHOP (2)\PO2PETSHOP\po2PetShop\obj\Debug\po2PetShop.csproj.AssemblyReference.cache
+C:\Users\teixe\Downloads\PO2PETSHOP (2)\PO2PETSHOP\po2PetShop\obj\Debug\po2PetShop.Cdfuncionario.resources
+C:\Users\teixe\Downloads\PO2PETSHOP (2)\PO2PETSHOP\po2PetShop\obj\Debug\po2PetShop.Cdempresa.resources
+C:\Users\teixe\Downloads\PO2PETSHOP (2)\PO2PETSHOP\po2PetShop\obj\Debug\po2PetShop.Inspfuncionario.resources
+C:\Users\teixe\Downloads\PO2PETSHOP (2)\PO2PETSHOP\po2PetShop\obj\Debug\po2PetShop.InspEmpresa.resources
+C:\Users\teixe\Downloads\PO2PETSHOP (2)\PO2PETSHOP\po2PetShop\obj\Debug\po2PetShop.TelaInicial.resources
+C:\Users\teixe\Downloads\PO2PETSHOP (2)\PO2PETSHOP\po2PetShop\obj\Debug\po2PetShop.Properties.Resources.resources
+C:\Users\teixe\Downloads\PO2PETSHOP (2)\PO2PETSHOP\po2PetShop\obj\Debug\po2PetShop.csproj.GenerateResource.cache
+C:\Users\teixe\Downloads\PO2PETSHOP (2)\PO2PETSHOP\po2PetShop\obj\Debug\po2PetShop.csproj.CoreCompileInputs.cache
+C:\Users\teixe\Downloads\PO2PETSHOP (2)\PO2PETSHOP\po2PetShop\obj\Debug\po2PetShop.csproj.CopyComplete
+C:\Users\teixe\Downloads\PO2PETSHOP (2)\PO2PETSHOP\po2PetShop\obj\Debug\po2PetShop.exe
+C:\Users\teixe\Downloads\PO2PETSHOP (2)\PO2PETSHOP\po2PetShop\obj\Debug\po2PetShop.pdb
